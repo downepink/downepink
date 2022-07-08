@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
   <br>
   <b>Hey there :wave:<b>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=octantx&style=flat-square&color=blue" alt=""/>
   <br>
   <b>Thanks for visiting my profile! Even though it is quite barren<b>
 </div>
