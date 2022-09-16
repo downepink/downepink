@@ -4,5 +4,5 @@
   <b>Hey there :wave:<b>
   <img src="https://komarev.com/ghpvc/?username=octantx&style=flat-square&color=blue" alt=""/>
   <br>
-  <b>Thanks for visiting my profile! Even though it is quite barren<b>
+  <b>Thanks for visiting my profile!<b>
 </div>
