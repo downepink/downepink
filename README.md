@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" width="9999"/>
+  <img src="https://media.tenor.com/8Ec8gxS5a6EAAAAC/cerisier-fleur-cherry-blossom.gif" width="250"/>
+  <img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" width="50"/>
   <br>
   <b>Hey there :wave: :rose:<b>
   <img src="https://komarev.com/ghpvc/?username=octantx&style=flat-square&color=blue" alt=""/>
