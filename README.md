@@ -1,6 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" width="50"/>
-  <img src="https://media.tenor.com/8Ec8gxS5a6EAAAAC/cerisier-fleur-cherry-blossom.gif" width="250"/>
-  <img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" width="50"/>
-  <h1>me do program</h1>
+  <img src="youtube_banner-dfh.png" width="250"/>
+  <a href="https://pinnacleroad.net"> <h2> PINNACLE ROAD </h2> </a>
 </div>
